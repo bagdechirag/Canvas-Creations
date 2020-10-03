@@ -1,6 +1,20 @@
 let cards = [
   //  Add your card in this section
   {
+    artName: 'Patatap-Clone',
+    pageLink: './Art/Ayushi/index.html',
+    imageLink: './Art/Ayushi/Ayushi.png',
+    author: 'Ayushi',
+    githubLink: 'https://github.com/AyuSoni25',
+  },
+  {
+    artName: 'Pencil Canvas',
+    pageLink: './Art/Giancarl021/index.html',
+    imageLink: './Art/Giancarl021/screenshot.png',
+    author: 'Giancarl021',
+    githubLink: 'https://github.com/Giancarl021'
+  },
+  {
     artName: 'Monochromat your Photo',
     pageLink: './Art/Shashvat/index.html',
     imageLink: './Art/Shashvat/shashvat-sc.png',
@@ -8,16 +22,16 @@ let cards = [
     githubLink: 'https://github.com/Iamshashvat'
   },
   {
-    artName: 'Welocme To Hacktoberfest',
+    artName: 'Welcome To Hacktoberfest',
     pageLink: './Art/Utkarsh2604/index.html',
     imageLink: './Art/Utkarsh2604/Screenshot.png',
     author: 'Utkarsh',
     githubLink: 'https://github.com/Utkarsh2604'
   },
   {
-    artName: 'Welocme To Hacktoberfest',
+    artName: 'Loading Bar',
     pageLink: './Art/shivam/index.html',
-    imageLink: './Art/shivem/loading.PNG',
+    imageLink: './Art/shivam/loading.PNG',
     author: 'shivam',
     githubLink: 'https://github.com/shivam12k'
   },
@@ -34,6 +48,13 @@ let cards = [
     imageLink: './Art/joy/robot.png',
     author: 'joy',
     githubLink: 'https://github.com/royranger'
+  },
+  {
+    artName: 'Rainy Day',
+    pageLink: './Art/prakhil-tp/rainyday.html',
+    imageLink: './Art/prakhil-tp/banner.png',
+    author: 'Prakhil TP',
+    githubLink: 'https://github.com/prakhil-tp'
   },
   {
     artName: 'ZTM Number One',
@@ -295,6 +316,97 @@ let cards = [
     imageLink: './Art/TamasKn/assets/draw-facial-hair.png',
     author: 'TamasKn',
     githubLink: 'https://github.com/TamasKn'
+  },
+  {
+    artName: 'Code your life with efforts',
+    pageLink: './Art/Ashutosh/index.html',
+    imageLink: './Art/Ashutosh/code.jpg',
+    author: 'Ashutosh',
+    githubLink: 'https://github.com/Ashutosh00710'
+  },
+  {
+    artName: 'Multi-coloured liquid Canvas drawing',
+    pageLink: './Art/sanjaysanjel/index.html',
+    imageLink: './Art/sanjaysanjel/assets/canvas-sanjay.PNG',
+    author: 'Sanjay Sanjel',
+    githubLink: 'https://github.com/sanjaysanjel019/'
+  },
+  {
+    artName: 'Text Canvas',
+    pageLink: './Art/skycoder/index.html',
+    imageLink: './Art/skycoder/think.png',
+    author: 'SkyC0der',
+    githubLink: 'https://github.com/SkyC0der'
+  },
+  {
+    artName: 'Happy Hacktoberfest',
+    pageLink: './Art/SquadTeemo/index.html',
+    imageLink: './Art/SquadTeemo/canvas_joy.jpg',
+    author: 'SquadTeemo',
+    githubLink: 'https://squadteemo.github.io/canvas-joy/'
+  },
+  {
+    artName: 'Flower Power',
+    pageLink: './Art/RedSquirrrel/index.html',
+    imageLink: './Art/RedSquirrrel/flover.gif',
+    author: 'RedSquirrrel',
+    githubLink: 'https://redsquirrrel.github.io/flover-style/'
+  },
+  {
+    artName: 'HackOctber drawing',
+    pageLink: './Art/shubhankar/index.html',
+    imageLink: './Art/shubhankar/Capture.PNG',
+    author: 'Shubhankar Dwivedi',
+    githubLink: 'https://github.com/shubhdwiv12/'
+  },
+  {
+    artName: 'funny house',
+    pageLink: './Art/CarmenIancu/index.html',
+    imageLink: './Art/CarmenIancu/funnyhouse.png',
+    author: 'Carmen',
+    githubLink: 'https://github.com/CarmenIancu'
+  },
+  {
+    artName: 'smiley face',
+    pageLink: './Art/biancasehn/index.html',
+    imageLink: './Art/biancasehn/Art.png',
+    author: 'Bianca',
+    githubLink: 'https://github.com/biancasehn'
+  },
+  {
+    artName: 'Random Colours',
+    pageLink: './Art/hamzazdev/index.html',
+    imageLink: './Art/hamzazdev/canvas.png',
+    author: 'hamzazdev',
+    githubLink: 'https://github.com/hamzazdev'
+  },
+  {
+    artName: 'Shapes',
+    pageLink: './Art/rashidmakki/index.html',
+    imageLink: './Art/rashidmakki/shapes.png',
+    author: 'Rashid Makki',
+    githubLink: 'https://github.com/rashidmakki'
+  },
+  {
+    artName: 'Smiley Face',
+    pageLink: './Art/ZachTheGecko/index.html',
+    imageLink: './Art/ZachTheGecko/img.png',
+    author: 'Zach',
+    githubLink: 'https://github.com/Zach-The-Gecko'
+  },
+  {
+    artName: 'Baby Yoda',
+    pageLink: './Art/samipPoudel/index.html',
+    imageLink: './Art/samipPoudel/babyYoda.jpg',
+    author: 'Samip Poudel',
+    githubLink: 'https://github.com/SamipPoudel58'
+  },
+  {
+    artName: 'Sunset Canvas',
+    pageLink: './Art/taniyahinduja/index.html',
+    imageLink: './Art/taniyahinduja/img.png',
+    author: 'Taniya',
+    githubLink: 'https://github.com/taniyahinduja'
   }
  
 ];
