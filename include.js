@@ -5,7 +5,7 @@ let cards = [
     pageLink: './Art/Ayushi/index.html',
     imageLink: './Art/Ayushi/Ayushi.png',
     author: 'Ayushi',
-    githubLink: 'https://github.com/AyuSoni25',
+    githubLink: 'https://github.com/AyuSoni25'
   },
   {
     artName: 'Pencil Canvas',
@@ -402,11 +402,109 @@ let cards = [
     githubLink: 'https://github.com/SamipPoudel58'
   },
   {
+    artName: 'Scotland the Brave',
+    pageLink: './Art/rmchardie/index.html',
+    imageLink: './Art/rmchardie/flag.png',
+    author: 'Ross McHardie',
+    githubLink: 'https://github.com/rmchardie'
+  },
+  {
     artName: 'Sunset Canvas',
     pageLink: './Art/taniyahinduja/index.html',
     imageLink: './Art/taniyahinduja/img.png',
     author: 'Taniya',
     githubLink: 'https://github.com/taniyahinduja'
+  },
+  {
+    artName: 'Hexagon',
+    pageLink: './Art/yashlad681/index.html',
+    imageLink: './Art/yashlad681/hexagon.PNG',
+    author: 'Yash',
+    githubLink: 'https://github.com/yashlad681'
+  },
+  {
+    artName: 'Run For your Life',
+    pageLink: './Art/Lincredible/index.html',
+    imageLink: './Art/Lincredible/complete.png',
+    author: 'Lincredible',
+    githubLink: 'https://github.com/LanguageXange'
+  },
+  {
+    artName: 'ZTM Art',
+    pageLink: './Art/etarrosa/index.html',
+    imageLink: './Art/etarrosa/ztm-art.png',
+    author: 'etarrosa',
+    githubLink: 'https://github.com/etarrosa'
+  },
+  {
+    artName: 'Random Circles',
+    pageLink: './Art/Atharva/index.html',
+    imageLink: './Art/Atharva/pic.JPG',
+    author: 'Atharva',
+    githubLink: 'https://github.com/atharv123-wq'
+  },
+  {
+    artName: 'Sky',
+    pageLink: './Art/krutik/index.html',
+    imageLink: './Art/krutik/sky.jpeg',
+    author: 'krutik',
+    githubLink: 'https://github.com/krutik20'
+  },
+  {
+    artName: 'Pixels in Motion',
+    pageLink: './Art/muslimalfatih/index.html',
+    imageLink: './Art/muslimalfatih/pixels-in-motion.png',
+    author: 'Muslim',
+    githubLink: 'https://github.com/muslimalfatih'
+  },
+  {
+    artName: 'Nepal Flag',
+    pageLink: './Art/shrijaltamrakar/index.html',
+    imageLink: './Art/shrijaltamrakar/nepalFlag.png',
+    author: 'Shrijal',
+    githubLink: 'https://github.com/shrijaltamrakar'
+  },
+  {
+    artName: 'Coordinate Graph',
+    pageLink: './Art/ytrkptl/index.html',
+    imageLink: './Art/ytrkptl/screenshot.png',
+    author: 'Yatrik Patel',
+    githubLink: 'https://github.com/ytrkptl'
+  },
+  {
+    artName: 'fireworks',
+    pageLink: './Art/badger/index.html',
+    imageLink: './Art/badger/sshot.jpg',
+    author: 'mr.badger',
+    githubLink: 'https://github.com/'
+  },
+  {
+    artName: "King's Heart",
+    pageLink: './Art/divyansh/index.html',
+    imageLink: './Art/divyansh/King.jpg',
+    author: 'Divyansh',
+    githubLink: 'https://github.com/divyanshrastogi51'
+  },
+  {
+    artName: 'Hackoberfest 2020',
+    pageLink: './Art/WayneMacMavis/index.html',
+    imageLink: './Art/WayneMacMavis/img.gif',
+    author: 'Wayne',
+    githubLink: 'https://github.com/WayneMacMavis'
+  },
+  {
+    artName: 'Indonesia Flag',
+    pageLink: './Art/Ibrahimsyah/index.html',
+    imageLink: './Art/Ibrahimsyah/Indonesia.png',
+    author: 'Ibrahimsyah',
+    githubLink: 'https://github.com/Ibrahimsyah'
+  },
+  {
+    artName: 'Bouncing Balls',
+    pageLink: './Art/saqlain-rasheed/index.html',
+    imageLink: './Art/saqlain-rasheed/img.png',
+    author: 'Saqlain',
+    githubLink: 'https://github.com/saqlainrasheed'
   }
  
 ];
