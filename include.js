@@ -505,6 +505,13 @@ let cards = [
     imageLink: './Art/saqlain-rasheed/img.png',
     author: 'Saqlain',
     githubLink: 'https://github.com/saqlainrasheed'
+  },
+  {
+    artName: 'Austria Flag',
+    pageLink: './Art/flagaustria/index.html',
+    imageLink: './Art/flagaustria/Austria.png',
+    author: 'Chirag Bagde',
+    githubLink: 'https://github.com/bagdechirag'
   }
  
 ];
